@@ -1,5 +1,9 @@
 # Tools Update Dari Tools CrackFB
 
+## => Login Methode
+👾 Login Token  
+👾 Login Cookies
+
 ## Jen-Mbf (Jenazah Multi Brute Force)
 <p align="center">
 <img src="https://github.com/jenazahsenyum/Jen-Mbf/blob/main/image/sadboy.jpg" width="128" 
