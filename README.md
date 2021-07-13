@@ -20,7 +20,7 @@ $ git clone https://github.com/jenazasenyum/Jen-Mbf
 
 $ cd Jen-Mbf
 
-$ python2 
+$ python2 Jen-Mbf.py
 ```
 ## Jen-Mbf (Jenazah Multi Brute Force)
 <p align="center">
