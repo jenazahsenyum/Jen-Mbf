@@ -19,7 +19,7 @@ $ pip2 install requests
 
 $ pip2 install mechanize
 
-$ git clone https://github.com/jenazasenyum/Jen-Mbf
+$ git clone https://github.com/jenazahsenyum/Jen-Mbf
 
 $ cd Jen-Mbf
 
