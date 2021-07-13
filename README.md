@@ -4,7 +4,7 @@
 👾 Login Token  
 👾 Login Cookies
 
-## ⇨  Install Script Termux
+## =>  Install Script Termux
 ```
 $ pkg update && pkg upgrade
 
