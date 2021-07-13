@@ -33,4 +33,6 @@ $ python2
 <a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-Jenazah Senyum-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 ### Hubungi GUA Ketika Tools Bermasalah
+<p align="center">
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/akang.jenazah)[![](https://img.shields.io/badge/Whatsapp-CHAT-blue?logo=Whatsapp&logoColor=purple&labelColor=orange)](https://wa.me/15716004419?text=Asalamualaikum+bang+ganteng)
+</p>
