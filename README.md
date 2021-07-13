@@ -22,6 +22,15 @@ $ cd Jen-Mbf
 
 $ python2 Jen-Mbf.py
 ```
+
+## Screenshot
+
+<img src="https://github.com/jenazahsenyum/Jen-Mbf/blob/main/image/IMG_20210713_220933.jpg" width="600" title="ScreenShot" alt="Menu">
+</p>
+
+<img src="https://github.com/jenazahsenyum/Jen-Mbf/blob/main/image/IMG_20210713_220955.jpg" width="600" title="ScreenShot" alt="Menu">
+</p>
+
 ## Jen-Mbf (Jenazah Multi Brute Force)
 <p align="center">
 <img src="https://github.com/jenazahsenyum/Jen-Mbf/blob/main/image/sadboy.jpg" width="128" 
