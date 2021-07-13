@@ -4,6 +4,24 @@
 👾 Login Token  
 👾 Login Cookies
 
+## ⇨  Install Script Termux
+```
+$ pkg update && pkg upgrade
+
+$ pkg install python2
+
+$ pip2 install bs4
+
+$ pip2 install requests
+
+$ pip2 install mechanize
+
+$ git clone https://github.com/jenazasenyum/
+
+$ cd Jen-Mbf
+
+$ python2 
+```
 ## Jen-Mbf (Jenazah Multi Brute Force)
 <p align="center">
 <img src="https://github.com/jenazahsenyum/Jen-Mbf/blob/main/image/sadboy.jpg" width="128" 
