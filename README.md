@@ -1,7 +1,4 @@
-#Tools Update Dari Tools CrackFB
-
-# Jen-Mbf
-tools hack fb
+# Tools Update Dari Tools CrackFB
 
 ## Jen-Mbf (Jenazah Multi Brute Force)
 <p align="center">
