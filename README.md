@@ -1,10 +1,10 @@
 # Tools Update Dari Tools CrackFB
 
-## => Login Methode
+## 👉 Login Methode
 👾 Login Token  
 👾 Login Cookies
 
-## =>  Install Script Termux
+## 👉  Install Script Termux
 ```
 $ pkg update && pkg upgrade
 
